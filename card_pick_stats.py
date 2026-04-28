@@ -99,7 +99,6 @@ def analyze_deck_composition(run_data, card_info):
     has_paels_wing = False
     has_purity = False
     purity_upgraded = False
-    has_protector = False
     souls_power_count = 0
     
     for player in run_data.get("players", []):
@@ -127,8 +126,6 @@ def analyze_deck_composition(run_data, card_info):
             if card_id == "PURITY":
                 has_purity = True
                 purity_upgraded = card.get("current_upgrade_level", 0) > 0
-            elif card_id == "PROTECTOR":
-                has_protector = True
             
             if card_type == "Curse":
                 deck_stats["curse"] += 1
@@ -175,13 +172,6 @@ def analyze_deck_composition(run_data, card_info):
             notes.append(f"净化(-{purity_amount})")
         else:
             notes.append(f"净化(净数量≤{purity_amount},不调整)")
-    
-    if has_protector:
-        if net <= 20:
-            net = 11
-            notes.append("护驾！！！(净数量≤20,调整为11)")
-        else:
-            notes.append("护驾！！！(净数量>20,不调整)")
     
     deck_stats["net"] = net
     deck_stats["note"] = "; ".join(notes) if notes else ""

@@ -90,7 +90,6 @@ The tool handles several special game mechanics:
 - **Ghost Seed (幽灵种子)**: Initial strikes and defends count as exhaust
 - **Paels Wing (佩尔之翼)**: Initial defends count as exhaust
 - **Purity (净化)**: Subtract 3 (unupgraded) or 5 (upgraded) from net quantity
-- **Protector (护驾！！！)**: Set net quantity to 11 if ≤20
 - **Ethereal (虚无)**: Cards with ethereal count as exhaust
 - **Soul Power (灵魂之力)**: Enchantment removes exhaust from cards
 
