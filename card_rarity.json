@@ -1,0 +1,4041 @@
+{
+  "ABRASIVE": {
+    "rarity": "Rare",
+    "type": "Power",
+    "pool": "Silent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "ACCELERANT": {
+    "rarity": "Rare",
+    "type": "Power",
+    "pool": "Silent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "ACCURACY": {
+    "rarity": "Uncommon",
+    "type": "Power",
+    "pool": "Silent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "ACROBATICS": {
+    "rarity": "Common",
+    "type": "Skill",
+    "pool": "Silent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "ADAPTIVE_STRIKE": {
+    "rarity": "Rare",
+    "type": "Attack",
+    "pool": "Defect",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "ADRENALINE": {
+    "rarity": "Rare",
+    "type": "Skill",
+    "pool": "Silent",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "AFTERIMAGE": {
+    "rarity": "Rare",
+    "type": "Power",
+    "pool": "Silent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "AFTERLIFE": {
+    "rarity": "Common",
+    "type": "Skill",
+    "pool": "Necrobinder",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "AGGRESSION": {
+    "rarity": "Rare",
+    "type": "Power",
+    "pool": "Ironclad",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "ALCHEMIZE": {
+    "rarity": "Rare",
+    "type": "Skill",
+    "pool": "Colorless",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "ALIGNMENT": {
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "pool": "Regent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "ALL_FOR_ONE": {
+    "rarity": "Rare",
+    "type": "Attack",
+    "pool": "Defect",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "ANGER": {
+    "rarity": "Common",
+    "type": "Attack",
+    "pool": "Ironclad",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "ANOINTED": {
+    "rarity": "Rare",
+    "type": "Skill",
+    "pool": "Colorless",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "ANTICIPATE": {
+    "rarity": "Common",
+    "type": "Skill",
+    "pool": "Silent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "APOTHEOSIS": {
+    "rarity": "Ancient",
+    "type": "Skill",
+    "pool": "Event",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "APPARITION": {
+    "rarity": "Ancient",
+    "type": "Skill",
+    "pool": "Event",
+    "exhaust": true,
+    "ethereal": true
+  },
+  "ARMAMENTS": {
+    "rarity": "Common",
+    "type": "Skill",
+    "pool": "Ironclad",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "ARSENAL": {
+    "rarity": "Rare",
+    "type": "Power",
+    "pool": "Regent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "ASCENDERS_BANE": {
+    "rarity": "Curse",
+    "type": "Curse",
+    "pool": "Curse",
+    "exhaust": false,
+    "ethereal": true
+  },
+  "ASHEN_STRIKE": {
+    "rarity": "Uncommon",
+    "type": "Attack",
+    "pool": "Ironclad",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "ASSASSINATE": {
+    "rarity": "Rare",
+    "type": "Attack",
+    "pool": "Silent",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "ASTRAL_PULSE": {
+    "rarity": "Common",
+    "type": "Attack",
+    "pool": "Regent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "AUTOMATION": {
+    "rarity": "Uncommon",
+    "type": "Power",
+    "pool": "Colorless",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "BACKFLIP": {
+    "rarity": "Common",
+    "type": "Skill",
+    "pool": "Silent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "BACKSTAB": {
+    "rarity": "Uncommon",
+    "type": "Attack",
+    "pool": "Silent",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "BAD_LUCK": {
+    "rarity": "Curse",
+    "type": "Curse",
+    "pool": "Curse",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "BALL_LIGHTNING": {
+    "rarity": "Common",
+    "type": "Attack",
+    "pool": "Defect",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "BANSHEES_CRY": {
+    "rarity": "Rare",
+    "type": "Attack",
+    "pool": "Necrobinder",
+    "exhaust": false,
+    "ethereal": true
+  },
+  "BARRAGE": {
+    "rarity": "Common",
+    "type": "Attack",
+    "pool": "Defect",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "BARRICADE": {
+    "rarity": "Rare",
+    "type": "Power",
+    "pool": "Ironclad",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "BASH": {
+    "rarity": "Basic",
+    "type": "Attack",
+    "pool": "Ironclad",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "BATTLE_TRANCE": {
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "pool": "Ironclad",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "BEACON_OF_HOPE": {
+    "rarity": "Rare",
+    "type": "Power",
+    "pool": "Colorless",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "BEAM_CELL": {
+    "rarity": "Common",
+    "type": "Attack",
+    "pool": "Defect",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "BEAT_DOWN": {
+    "rarity": "Rare",
+    "type": "Skill",
+    "pool": "Colorless",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "BEAT_INTO_SHAPE": {
+    "rarity": "Rare",
+    "type": "Attack",
+    "pool": "Regent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "BECKON": {
+    "rarity": "Status",
+    "type": "Status",
+    "pool": "Status",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "BEGONE": {
+    "rarity": "Common",
+    "type": "Attack",
+    "pool": "Regent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "BELIEVE_IN_YOU": {
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "pool": "Colorless",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "BIASED_COGNITION": {
+    "rarity": "Ancient",
+    "type": "Power",
+    "pool": "Defect",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "BIG_BANG": {
+    "rarity": "Rare",
+    "type": "Skill",
+    "pool": "Regent",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "BLACK_HOLE": {
+    "rarity": "Uncommon",
+    "type": "Power",
+    "pool": "Regent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "BLADE_DANCE": {
+    "rarity": "Common",
+    "type": "Skill",
+    "pool": "Silent",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "BLADE_OF_INK": {
+    "rarity": "Rare",
+    "type": "Skill",
+    "pool": "Silent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "BLIGHT_STRIKE": {
+    "rarity": "Common",
+    "type": "Attack",
+    "pool": "Necrobinder",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "BLOODLETTING": {
+    "rarity": "Common",
+    "type": "Skill",
+    "pool": "Ironclad",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "BLOOD_WALL": {
+    "rarity": "Common",
+    "type": "Skill",
+    "pool": "Ironclad",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "BLUDGEON": {
+    "rarity": "Uncommon",
+    "type": "Attack",
+    "pool": "Ironclad",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "BLUR": {
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "pool": "Silent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "BODYGUARD": {
+    "rarity": "Basic",
+    "type": "Skill",
+    "pool": "Necrobinder",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "BODY_SLAM": {
+    "rarity": "Common",
+    "type": "Attack",
+    "pool": "Ironclad",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "BOLAS": {
+    "rarity": "Rare",
+    "type": "Attack",
+    "pool": "Colorless",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "BOMBARDMENT": {
+    "rarity": "Rare",
+    "type": "Attack",
+    "pool": "Regent",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "BONE_SHARDS": {
+    "rarity": "Uncommon",
+    "type": "Attack",
+    "pool": "Necrobinder",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "BOOST_AWAY": {
+    "rarity": "Common",
+    "type": "Skill",
+    "pool": "Defect",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "BOOT_SEQUENCE": {
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "pool": "Defect",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "BORROWED_TIME": {
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "pool": "Necrobinder",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "BOUNCING_FLASK": {
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "pool": "Silent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "BRAND": {
+    "rarity": "Rare",
+    "type": "Skill",
+    "pool": "Ironclad",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "BREAK": {
+    "rarity": "Ancient",
+    "type": "Attack",
+    "pool": "Ironclad",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "BREAKTHROUGH": {
+    "rarity": "Common",
+    "type": "Attack",
+    "pool": "Ironclad",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "BRIGHTEST_FLAME": {
+    "rarity": "Ancient",
+    "type": "Skill",
+    "pool": "Event",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "BUBBLE_BUBBLE": {
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "pool": "Silent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "BUFFER": {
+    "rarity": "Rare",
+    "type": "Power",
+    "pool": "Defect",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "BULK_UP": {
+    "rarity": "Uncommon",
+    "type": "Power",
+    "pool": "Defect",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "BULLET_TIME": {
+    "rarity": "Rare",
+    "type": "Skill",
+    "pool": "Silent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "BULLY": {
+    "rarity": "Uncommon",
+    "type": "Attack",
+    "pool": "Ironclad",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "BULWARK": {
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "pool": "Regent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "BUNDLE_OF_JOY": {
+    "rarity": "Rare",
+    "type": "Skill",
+    "pool": "Regent",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "BURN": {
+    "rarity": "Status",
+    "type": "Status",
+    "pool": "Status",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "BURNING_PACT": {
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "pool": "Ironclad",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "BURST": {
+    "rarity": "Rare",
+    "type": "Skill",
+    "pool": "Silent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "BURY": {
+    "rarity": "Uncommon",
+    "type": "Attack",
+    "pool": "Necrobinder",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "BYRDONIS_EGG": {
+    "rarity": "Quest",
+    "type": "Quest",
+    "pool": "Quest",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "BYRD_SWOOP": {
+    "rarity": "Event",
+    "type": "Attack",
+    "pool": "Event",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "CALAMITY": {
+    "rarity": "Rare",
+    "type": "Power",
+    "pool": "Colorless",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "CALCIFY": {
+    "rarity": "Uncommon",
+    "type": "Power",
+    "pool": "Necrobinder",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "CALCULATED_GAMBLE": {
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "pool": "Silent",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "CALL_OF_THE_VOID": {
+    "rarity": "Rare",
+    "type": "Power",
+    "pool": "Necrobinder",
+    "exhaust": false,
+    "ethereal": true
+  },
+  "CALTROPS": {
+    "rarity": "Event",
+    "type": "Power",
+    "pool": "Event",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "CAPACITOR": {
+    "rarity": "Uncommon",
+    "type": "Power",
+    "pool": "Defect",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "CAPTURE_SPIRIT": {
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "pool": "Necrobinder",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "CASCADE": {
+    "rarity": "Rare",
+    "type": "Skill",
+    "pool": "Ironclad",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "CATASTROPHE": {
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "pool": "Colorless",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "CELESTIAL_MIGHT": {
+    "rarity": "Common",
+    "type": "Attack",
+    "pool": "Regent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "CHAOS": {
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "pool": "Defect",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "CHARGE": {
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "pool": "Regent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "CHARGE_BATTERY": {
+    "rarity": "Common",
+    "type": "Skill",
+    "pool": "Defect",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "CHILD_OF_THE_STARS": {
+    "rarity": "Uncommon",
+    "type": "Power",
+    "pool": "Regent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "CHILL": {
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "pool": "Defect",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "CINDER": {
+    "rarity": "Common",
+    "type": "Attack",
+    "pool": "Ironclad",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "CLASH": {
+    "rarity": "Event",
+    "type": "Attack",
+    "pool": "Event",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "CLAW": {
+    "rarity": "Common",
+    "type": "Attack",
+    "pool": "Defect",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "CLEANSE": {
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "pool": "Necrobinder",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "CLOAK_AND_DAGGER": {
+    "rarity": "Common",
+    "type": "Skill",
+    "pool": "Silent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "CLOAK_OF_STARS": {
+    "rarity": "Common",
+    "type": "Skill",
+    "pool": "Regent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "CLUMSY": {
+    "rarity": "Curse",
+    "type": "Curse",
+    "pool": "Curse",
+    "exhaust": false,
+    "ethereal": true
+  },
+  "COLD_SNAP": {
+    "rarity": "Common",
+    "type": "Attack",
+    "pool": "Defect",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "COLLISION_COURSE": {
+    "rarity": "Common",
+    "type": "Attack",
+    "pool": "Regent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "COLOSSUS": {
+    "rarity": "Rare",
+    "type": "Skill",
+    "pool": "Ironclad",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "COMET": {
+    "rarity": "Rare",
+    "type": "Attack",
+    "pool": "Regent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "COMPACT": {
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "pool": "Defect",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "COMPILE_DRIVER": {
+    "rarity": "Common",
+    "type": "Attack",
+    "pool": "Defect",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "CONFLAGRATION": {
+    "rarity": "Rare",
+    "type": "Attack",
+    "pool": "Ironclad",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "CONQUEROR": {
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "pool": "Regent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "CONSUMING_SHADOW": {
+    "rarity": "Rare",
+    "type": "Power",
+    "pool": "Defect",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "CONVERGENCE": {
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "pool": "Regent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "COOLANT": {
+    "rarity": "Rare",
+    "type": "Power",
+    "pool": "Defect",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "COOLHEADED": {
+    "rarity": "Common",
+    "type": "Skill",
+    "pool": "Defect",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "COORDINATE": {
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "pool": "Colorless",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "CORROSIVE_WAVE": {
+    "rarity": "Rare",
+    "type": "Skill",
+    "pool": "Silent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "CORRUPTION": {
+    "rarity": "Ancient",
+    "type": "Power",
+    "pool": "Ironclad",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "COSMIC_INDIFFERENCE": {
+    "rarity": "Common",
+    "type": "Skill",
+    "pool": "Regent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "COUNTDOWN": {
+    "rarity": "Uncommon",
+    "type": "Power",
+    "pool": "Necrobinder",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "CRASH_LANDING": {
+    "rarity": "Rare",
+    "type": "Attack",
+    "pool": "Regent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "CREATIVE_AI": {
+    "rarity": "Rare",
+    "type": "Power",
+    "pool": "Defect",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "CRESCENT_SPEAR": {
+    "rarity": "Common",
+    "type": "Attack",
+    "pool": "Regent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "CRIMSON_MANTLE": {
+    "rarity": "Rare",
+    "type": "Power",
+    "pool": "Ironclad",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "CRUELTY": {
+    "rarity": "Rare",
+    "type": "Power",
+    "pool": "Ironclad",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "CRUSH_UNDER": {
+    "rarity": "Common",
+    "type": "Attack",
+    "pool": "Regent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "CURSE_OF_THE_BELL": {
+    "rarity": "Curse",
+    "type": "Curse",
+    "pool": "Curse",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "DAGGER_SPRAY": {
+    "rarity": "Common",
+    "type": "Attack",
+    "pool": "Silent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "DAGGER_THROW": {
+    "rarity": "Common",
+    "type": "Attack",
+    "pool": "Silent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "DANSE_MACABRE": {
+    "rarity": "Uncommon",
+    "type": "Power",
+    "pool": "Necrobinder",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "DARK_EMBRACE": {
+    "rarity": "Rare",
+    "type": "Power",
+    "pool": "Ironclad",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "DARKNESS": {
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "pool": "Defect",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "DARK_SHACKLES": {
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "pool": "Colorless",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "DASH": {
+    "rarity": "Uncommon",
+    "type": "Attack",
+    "pool": "Silent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "DAZED": {
+    "rarity": "Status",
+    "type": "Status",
+    "pool": "Status",
+    "exhaust": false,
+    "ethereal": true
+  },
+  "DEADLY_POISON": {
+    "rarity": "Common",
+    "type": "Skill",
+    "pool": "Silent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "DEATHBRINGER": {
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "pool": "Necrobinder",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "DEATH_MARCH": {
+    "rarity": "Uncommon",
+    "type": "Attack",
+    "pool": "Necrobinder",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "DEATHS_DOOR": {
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "pool": "Necrobinder",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "DEBILITATE": {
+    "rarity": "Uncommon",
+    "type": "Attack",
+    "pool": "Necrobinder",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "DEBRIS": {
+    "rarity": "Status",
+    "type": "Status",
+    "pool": "Status",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "DEBT": {
+    "rarity": "Curse",
+    "type": "Curse",
+    "pool": "Curse",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "DECAY": {
+    "rarity": "Curse",
+    "type": "Curse",
+    "pool": "Curse",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "DECISIONS_DECISIONS": {
+    "rarity": "Rare",
+    "type": "Skill",
+    "pool": "Regent",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "DEFEND_DEFECT": {
+    "rarity": "Basic",
+    "type": "Skill",
+    "pool": "Defect",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "DEFEND_IRONCLAD": {
+    "rarity": "Basic",
+    "type": "Skill",
+    "pool": "Ironclad",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "DEFEND_NECROBINDER": {
+    "rarity": "Basic",
+    "type": "Skill",
+    "pool": "Necrobinder",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "DEFEND_REGENT": {
+    "rarity": "Basic",
+    "type": "Skill",
+    "pool": "Regent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "DEFEND_SILENT": {
+    "rarity": "Basic",
+    "type": "Skill",
+    "pool": "Silent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "DEFILE": {
+    "rarity": "Common",
+    "type": "Attack",
+    "pool": "Necrobinder",
+    "exhaust": false,
+    "ethereal": true
+  },
+  "DEFLECT": {
+    "rarity": "Common",
+    "type": "Skill",
+    "pool": "Silent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "DEFRAGMENT": {
+    "rarity": "Rare",
+    "type": "Power",
+    "pool": "Defect",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "DEFY": {
+    "rarity": "Common",
+    "type": "Skill",
+    "pool": "Necrobinder",
+    "exhaust": false,
+    "ethereal": true
+  },
+  "DELAY": {
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "pool": "Necrobinder",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "DEMESNE": {
+    "rarity": "Rare",
+    "type": "Power",
+    "pool": "Necrobinder",
+    "exhaust": false,
+    "ethereal": true
+  },
+  "DEMON_FORM": {
+    "rarity": "Rare",
+    "type": "Power",
+    "pool": "Ironclad",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "DEMONIC_SHIELD": {
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "pool": "Ironclad",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "DEPRECATED_CARD": {
+    "rarity": "Curse",
+    "type": "Curse",
+    "pool": "Unknown",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "DEVASTATE": {
+    "rarity": "Uncommon",
+    "type": "Attack",
+    "pool": "Regent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "DEVOUR_LIFE": {
+    "rarity": "Rare",
+    "type": "Power",
+    "pool": "Necrobinder",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "DIRGE": {
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "pool": "Necrobinder",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "DISCOVERY": {
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "pool": "Colorless",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "DISINTEGRATION": {
+    "rarity": "Status",
+    "type": "Status",
+    "pool": "Token",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "DISMANTLE": {
+    "rarity": "Uncommon",
+    "type": "Attack",
+    "pool": "Ironclad",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "DISTRACTION": {
+    "rarity": "Event",
+    "type": "Skill",
+    "pool": "Event",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "DODGE_AND_ROLL": {
+    "rarity": "Common",
+    "type": "Skill",
+    "pool": "Silent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "DOMINATE": {
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "pool": "Ironclad",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "DOUBLE_ENERGY": {
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "pool": "Defect",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "DOUBT": {
+    "rarity": "Curse",
+    "type": "Curse",
+    "pool": "Curse",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "DRAIN_POWER": {
+    "rarity": "Common",
+    "type": "Attack",
+    "pool": "Necrobinder",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "DRAMATIC_ENTRANCE": {
+    "rarity": "Uncommon",
+    "type": "Attack",
+    "pool": "Colorless",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "DREDGE": {
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "pool": "Necrobinder",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "DRUM_OF_BATTLE": {
+    "rarity": "Uncommon",
+    "type": "Power",
+    "pool": "Ironclad",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "DUALCAST": {
+    "rarity": "Basic",
+    "type": "Skill",
+    "pool": "Defect",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "DUAL_WIELD": {
+    "rarity": "Event",
+    "type": "Skill",
+    "pool": "Event",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "DYING_STAR": {
+    "rarity": "Rare",
+    "type": "Attack",
+    "pool": "Regent",
+    "exhaust": false,
+    "ethereal": true
+  },
+  "ECHO_FORM": {
+    "rarity": "Rare",
+    "type": "Power",
+    "pool": "Defect",
+    "exhaust": false,
+    "ethereal": true
+  },
+  "ECHOING_SLASH": {
+    "rarity": "Rare",
+    "type": "Attack",
+    "pool": "Silent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "EIDOLON": {
+    "rarity": "Rare",
+    "type": "Skill",
+    "pool": "Necrobinder",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "END_OF_DAYS": {
+    "rarity": "Rare",
+    "type": "Skill",
+    "pool": "Necrobinder",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "ENERGY_SURGE": {
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "pool": "Defect",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "ENFEEBLING_TOUCH": {
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "pool": "Necrobinder",
+    "exhaust": false,
+    "ethereal": true
+  },
+  "ENLIGHTENMENT": {
+    "rarity": "Event",
+    "type": "Skill",
+    "pool": "Event",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "ENTHRALLED": {
+    "rarity": "Curse",
+    "type": "Curse",
+    "pool": "Curse",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "ENTRENCH": {
+    "rarity": "Event",
+    "type": "Skill",
+    "pool": "Event",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "ENTROPY": {
+    "rarity": "Rare",
+    "type": "Power",
+    "pool": "Colorless",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "ENVENOM": {
+    "rarity": "Rare",
+    "type": "Power",
+    "pool": "Silent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "EQUILIBRIUM": {
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "pool": "Colorless",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "ERADICATE": {
+    "rarity": "Rare",
+    "type": "Attack",
+    "pool": "Necrobinder",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "ESCAPE_PLAN": {
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "pool": "Silent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "ETERNAL_ARMOR": {
+    "rarity": "Rare",
+    "type": "Power",
+    "pool": "Colorless",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "EVIL_EYE": {
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "pool": "Ironclad",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "EXPECT_A_FIGHT": {
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "pool": "Ironclad",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "EXPERTISE": {
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "pool": "Silent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "EXPOSE": {
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "pool": "Silent",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "EXTERMINATE": {
+    "rarity": "Event",
+    "type": "Attack",
+    "pool": "Event",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "FALLING_STAR": {
+    "rarity": "Basic",
+    "type": "Attack",
+    "pool": "Regent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "FAN_OF_KNIVES": {
+    "rarity": "Rare",
+    "type": "Power",
+    "pool": "Silent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "FASTEN": {
+    "rarity": "Uncommon",
+    "type": "Power",
+    "pool": "Colorless",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "FEAR": {
+    "rarity": "Common",
+    "type": "Attack",
+    "pool": "Necrobinder",
+    "exhaust": false,
+    "ethereal": true
+  },
+  "FEED": {
+    "rarity": "Rare",
+    "type": "Attack",
+    "pool": "Ironclad",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "FEEDING_FRENZY": {
+    "rarity": "Event",
+    "type": "Skill",
+    "pool": "Event",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "FEEL_NO_PAIN": {
+    "rarity": "Uncommon",
+    "type": "Power",
+    "pool": "Ironclad",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "FERAL": {
+    "rarity": "Uncommon",
+    "type": "Power",
+    "pool": "Defect",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "FETCH": {
+    "rarity": "Uncommon",
+    "type": "Attack",
+    "pool": "Necrobinder",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "FIEND_FIRE": {
+    "rarity": "Rare",
+    "type": "Attack",
+    "pool": "Ironclad",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "FIGHT_ME": {
+    "rarity": "Uncommon",
+    "type": "Attack",
+    "pool": "Ironclad",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "FIGHT_THROUGH": {
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "pool": "Defect",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "FINESSE": {
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "pool": "Colorless",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "FINISHER": {
+    "rarity": "Uncommon",
+    "type": "Attack",
+    "pool": "Silent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "FISTICUFFS": {
+    "rarity": "Uncommon",
+    "type": "Attack",
+    "pool": "Colorless",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "FLAK_CANNON": {
+    "rarity": "Rare",
+    "type": "Attack",
+    "pool": "Defect",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "FLAME_BARRIER": {
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "pool": "Ironclad",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "FLANKING": {
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "pool": "Silent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "FLASH_OF_STEEL": {
+    "rarity": "Uncommon",
+    "type": "Attack",
+    "pool": "Colorless",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "FLATTEN": {
+    "rarity": "Common",
+    "type": "Attack",
+    "pool": "Necrobinder",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "FLECHETTES": {
+    "rarity": "Uncommon",
+    "type": "Attack",
+    "pool": "Silent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "FLICK_FLACK": {
+    "rarity": "Common",
+    "type": "Attack",
+    "pool": "Silent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "FOCUSED_STRIKE": {
+    "rarity": "Common",
+    "type": "Attack",
+    "pool": "Defect",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "FOLLOW_THROUGH": {
+    "rarity": "Uncommon",
+    "type": "Attack",
+    "pool": "Silent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "FOLLY": {
+    "rarity": "Curse",
+    "type": "Curse",
+    "pool": "Curse",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "FOOTWORK": {
+    "rarity": "Uncommon",
+    "type": "Power",
+    "pool": "Silent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "FORBIDDEN_GRIMOIRE": {
+    "rarity": "Ancient",
+    "type": "Power",
+    "pool": "Necrobinder",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "FOREGONE_CONCLUSION": {
+    "rarity": "Rare",
+    "type": "Skill",
+    "pool": "Regent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "FORGOTTEN_RITUAL": {
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "pool": "Ironclad",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "FRANTIC_ESCAPE": {
+    "rarity": "Status",
+    "type": "Status",
+    "pool": "Status",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "FRIENDSHIP": {
+    "rarity": "Uncommon",
+    "type": "Power",
+    "pool": "Necrobinder",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "FTL": {
+    "rarity": "Uncommon",
+    "type": "Attack",
+    "pool": "Defect",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "FUEL": {
+    "rarity": "Token",
+    "type": "Skill",
+    "pool": "Token",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "FURNACE": {
+    "rarity": "Uncommon",
+    "type": "Power",
+    "pool": "Regent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "FUSION": {
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "pool": "Defect",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "GAMMA_BLAST": {
+    "rarity": "Uncommon",
+    "type": "Attack",
+    "pool": "Regent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "GANG_UP": {
+    "rarity": "Uncommon",
+    "type": "Attack",
+    "pool": "Colorless",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "GATHER_LIGHT": {
+    "rarity": "Common",
+    "type": "Skill",
+    "pool": "Regent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "GENESIS": {
+    "rarity": "Rare",
+    "type": "Power",
+    "pool": "Regent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "GENETIC_ALGORITHM": {
+    "rarity": "Rare",
+    "type": "Skill",
+    "pool": "Defect",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "GIANT_ROCK": {
+    "rarity": "Token",
+    "type": "Attack",
+    "pool": "Token",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "GLACIER": {
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "pool": "Defect",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "GLASSWORK": {
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "pool": "Defect",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "GLIMMER": {
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "pool": "Regent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "GLIMPSE_BEYOND": {
+    "rarity": "Rare",
+    "type": "Skill",
+    "pool": "Necrobinder",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "GLITTERSTREAM": {
+    "rarity": "Common",
+    "type": "Skill",
+    "pool": "Regent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "GLOW": {
+    "rarity": "Common",
+    "type": "Skill",
+    "pool": "Regent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "GO_FOR_THE_EYES": {
+    "rarity": "Common",
+    "type": "Attack",
+    "pool": "Defect",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "GOLD_AXE": {
+    "rarity": "Rare",
+    "type": "Attack",
+    "pool": "Colorless",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "GRAND_FINALE": {
+    "rarity": "Rare",
+    "type": "Attack",
+    "pool": "Silent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "GRAPPLE": {
+    "rarity": "Uncommon",
+    "type": "Attack",
+    "pool": "Ironclad",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "GRAVEBLAST": {
+    "rarity": "Common",
+    "type": "Attack",
+    "pool": "Necrobinder",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "GRAVE_WARDEN": {
+    "rarity": "Common",
+    "type": "Skill",
+    "pool": "Necrobinder",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "GREED": {
+    "rarity": "Curse",
+    "type": "Curse",
+    "pool": "Curse",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "GUARDS": {
+    "rarity": "Rare",
+    "type": "Skill",
+    "pool": "Regent",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "GUIDING_STAR": {
+    "rarity": "Common",
+    "type": "Attack",
+    "pool": "Regent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "GUILTY": {
+    "rarity": "Curse",
+    "type": "Curse",
+    "pool": "Curse",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "GUNK_UP": {
+    "rarity": "Common",
+    "type": "Attack",
+    "pool": "Defect",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "HAILSTORM": {
+    "rarity": "Uncommon",
+    "type": "Power",
+    "pool": "Defect",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "HAMMER_TIME": {
+    "rarity": "Rare",
+    "type": "Power",
+    "pool": "Regent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "HAND_OF_GREED": {
+    "rarity": "Rare",
+    "type": "Attack",
+    "pool": "Colorless",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "HAND_TRICK": {
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "pool": "Silent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "HANG": {
+    "rarity": "Rare",
+    "type": "Attack",
+    "pool": "Necrobinder",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "HAUNT": {
+    "rarity": "Uncommon",
+    "type": "Power",
+    "pool": "Necrobinder",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "HAVOC": {
+    "rarity": "Common",
+    "type": "Skill",
+    "pool": "Ironclad",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "HAZE": {
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "pool": "Silent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "HEADBUTT": {
+    "rarity": "Common",
+    "type": "Attack",
+    "pool": "Ironclad",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "HEAVENLY_DRILL": {
+    "rarity": "Rare",
+    "type": "Attack",
+    "pool": "Regent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "HEGEMONY": {
+    "rarity": "Uncommon",
+    "type": "Attack",
+    "pool": "Regent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "HEIRLOOM_HAMMER": {
+    "rarity": "Rare",
+    "type": "Attack",
+    "pool": "Regent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "HELIX_DRILL": {
+    "rarity": "Rare",
+    "type": "Attack",
+    "pool": "Defect",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "HELLO_WORLD": {
+    "rarity": "Event",
+    "type": "Power",
+    "pool": "Event",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "HELLRAISER": {
+    "rarity": "Rare",
+    "type": "Power",
+    "pool": "Ironclad",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "HEMOKINESIS": {
+    "rarity": "Uncommon",
+    "type": "Attack",
+    "pool": "Ironclad",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "HIDDEN_CACHE": {
+    "rarity": "Common",
+    "type": "Skill",
+    "pool": "Regent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "HIDDEN_DAGGERS": {
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "pool": "Silent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "HIDDEN_GEM": {
+    "rarity": "Rare",
+    "type": "Skill",
+    "pool": "Colorless",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "HIGH_FIVE": {
+    "rarity": "Uncommon",
+    "type": "Attack",
+    "pool": "Necrobinder",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "HOLOGRAM": {
+    "rarity": "Common",
+    "type": "Skill",
+    "pool": "Defect",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "HOTFIX": {
+    "rarity": "Common",
+    "type": "Skill",
+    "pool": "Defect",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "HOWL_FROM_BEYOND": {
+    "rarity": "Uncommon",
+    "type": "Attack",
+    "pool": "Ironclad",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "HUDDLE_UP": {
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "pool": "Colorless",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "HYPERBEAM": {
+    "rarity": "Rare",
+    "type": "Attack",
+    "pool": "Defect",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "I_AM_INVINCIBLE": {
+    "rarity": "Rare",
+    "type": "Skill",
+    "pool": "Regent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "ICE_LANCE": {
+    "rarity": "Rare",
+    "type": "Attack",
+    "pool": "Defect",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "IGNITION": {
+    "rarity": "Rare",
+    "type": "Skill",
+    "pool": "Defect",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "IMPATIENCE": {
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "pool": "Colorless",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "IMPERVIOUS": {
+    "rarity": "Rare",
+    "type": "Skill",
+    "pool": "Ironclad",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "INFECTION": {
+    "rarity": "Status",
+    "type": "Status",
+    "pool": "Status",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "INFERNAL_BLADE": {
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "pool": "Ironclad",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "INFERNO": {
+    "rarity": "Uncommon",
+    "type": "Power",
+    "pool": "Ironclad",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "INFINITE_BLADES": {
+    "rarity": "Uncommon",
+    "type": "Power",
+    "pool": "Silent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "INFLAME": {
+    "rarity": "Uncommon",
+    "type": "Power",
+    "pool": "Ironclad",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "INJURY": {
+    "rarity": "Curse",
+    "type": "Curse",
+    "pool": "Curse",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "INTERCEPT": {
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "pool": "Colorless",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "INVOKE": {
+    "rarity": "Common",
+    "type": "Skill",
+    "pool": "Necrobinder",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "IRON_WAVE": {
+    "rarity": "Common",
+    "type": "Attack",
+    "pool": "Ironclad",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "ITERATION": {
+    "rarity": "Uncommon",
+    "type": "Power",
+    "pool": "Defect",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "JACK_OF_ALL_TRADES": {
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "pool": "Colorless",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "JACKPOT": {
+    "rarity": "Rare",
+    "type": "Attack",
+    "pool": "Colorless",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "JUGGERNAUT": {
+    "rarity": "Rare",
+    "type": "Power",
+    "pool": "Ironclad",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "JUGGLING": {
+    "rarity": "Uncommon",
+    "type": "Power",
+    "pool": "Ironclad",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "KINGLY_KICK": {
+    "rarity": "Uncommon",
+    "type": "Attack",
+    "pool": "Regent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "KINGLY_PUNCH": {
+    "rarity": "Uncommon",
+    "type": "Attack",
+    "pool": "Regent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "KNIFE_TRAP": {
+    "rarity": "Rare",
+    "type": "Skill",
+    "pool": "Silent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "KNOCKDOWN": {
+    "rarity": "Rare",
+    "type": "Attack",
+    "pool": "Colorless",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "KNOCKOUT_BLOW": {
+    "rarity": "Uncommon",
+    "type": "Attack",
+    "pool": "Regent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "KNOW_THY_PLACE": {
+    "rarity": "Common",
+    "type": "Skill",
+    "pool": "Regent",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "LANTERN_KEY": {
+    "rarity": "Quest",
+    "type": "Quest",
+    "pool": "Quest",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "LARGESSE": {
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "pool": "Regent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "LEADING_STRIKE": {
+    "rarity": "Common",
+    "type": "Attack",
+    "pool": "Silent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "LEAP": {
+    "rarity": "Common",
+    "type": "Skill",
+    "pool": "Defect",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "LEGION_OF_BONE": {
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "pool": "Necrobinder",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "LEG_SWEEP": {
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "pool": "Silent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "LETHALITY": {
+    "rarity": "Uncommon",
+    "type": "Power",
+    "pool": "Necrobinder",
+    "exhaust": false,
+    "ethereal": true
+  },
+  "LIFT": {
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "pool": "Colorless",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "LIGHTNING_ROD": {
+    "rarity": "Common",
+    "type": "Skill",
+    "pool": "Defect",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "LOOP": {
+    "rarity": "Uncommon",
+    "type": "Power",
+    "pool": "Defect",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "LUMINESCE": {
+    "rarity": "Token",
+    "type": "Skill",
+    "pool": "Token",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "LUNAR_BLAST": {
+    "rarity": "Uncommon",
+    "type": "Attack",
+    "pool": "Regent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "MACHINE_LEARNING": {
+    "rarity": "Rare",
+    "type": "Power",
+    "pool": "Defect",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "MAD_SCIENCE": {
+    "rarity": "Event",
+    "type": "Attack",
+    "pool": "Event",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "MAKE_IT_SO": {
+    "rarity": "Rare",
+    "type": "Attack",
+    "pool": "Regent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "MALAISE": {
+    "rarity": "Rare",
+    "type": "Skill",
+    "pool": "Silent",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "MANGLE": {
+    "rarity": "Rare",
+    "type": "Attack",
+    "pool": "Ironclad",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "MANIFEST_AUTHORITY": {
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "pool": "Regent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "MASTER_OF_STRATEGY": {
+    "rarity": "Rare",
+    "type": "Skill",
+    "pool": "Colorless",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "MASTER_PLANNER": {
+    "rarity": "Rare",
+    "type": "Power",
+    "pool": "Silent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "MAUL": {
+    "rarity": "Ancient",
+    "type": "Attack",
+    "pool": "Event",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "MAYHEM": {
+    "rarity": "Rare",
+    "type": "Power",
+    "pool": "Colorless",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "MELANCHOLY": {
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "pool": "Necrobinder",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "MEMENTO_MORI": {
+    "rarity": "Uncommon",
+    "type": "Attack",
+    "pool": "Silent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "METAMORPHOSIS": {
+    "rarity": "Event",
+    "type": "Skill",
+    "pool": "Event",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "METEOR_SHOWER": {
+    "rarity": "Ancient",
+    "type": "Attack",
+    "pool": "Regent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "METEOR_STRIKE": {
+    "rarity": "Rare",
+    "type": "Attack",
+    "pool": "Defect",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "MIMIC": {
+    "rarity": "Rare",
+    "type": "Skill",
+    "pool": "Colorless",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "MIND_BLAST": {
+    "rarity": "Uncommon",
+    "type": "Attack",
+    "pool": "Colorless",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "MIND_ROT": {
+    "rarity": "Status",
+    "type": "Status",
+    "pool": "Token",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "MINION_DIVE_BOMB": {
+    "rarity": "Token",
+    "type": "Attack",
+    "pool": "Token",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "MINION_SACRIFICE": {
+    "rarity": "Token",
+    "type": "Skill",
+    "pool": "Token",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "MINION_STRIKE": {
+    "rarity": "Token",
+    "type": "Attack",
+    "pool": "Token",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "MIRAGE": {
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "pool": "Silent",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "MISERY": {
+    "rarity": "Rare",
+    "type": "Attack",
+    "pool": "Necrobinder",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "MODDED": {
+    "rarity": "Rare",
+    "type": "Skill",
+    "pool": "Defect",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "MOLTEN_FIST": {
+    "rarity": "Common",
+    "type": "Attack",
+    "pool": "Ironclad",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "MOMENTUM_STRIKE": {
+    "rarity": "Common",
+    "type": "Attack",
+    "pool": "Defect",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "MONARCHS_GAZE": {
+    "rarity": "Rare",
+    "type": "Power",
+    "pool": "Regent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "MONOLOGUE": {
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "pool": "Regent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "MULTI_CAST": {
+    "rarity": "Rare",
+    "type": "Skill",
+    "pool": "Defect",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "MURDER": {
+    "rarity": "Rare",
+    "type": "Attack",
+    "pool": "Silent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "NECRO_MASTERY": {
+    "rarity": "Rare",
+    "type": "Power",
+    "pool": "Necrobinder",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "NEGATIVE_PULSE": {
+    "rarity": "Common",
+    "type": "Skill",
+    "pool": "Necrobinder",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "NEOWS_FURY": {
+    "rarity": "Ancient",
+    "type": "Attack",
+    "pool": "Event",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "NEUROSURGE": {
+    "rarity": "Rare",
+    "type": "Power",
+    "pool": "Necrobinder",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "NEUTRALIZE": {
+    "rarity": "Basic",
+    "type": "Attack",
+    "pool": "Silent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "NEUTRON_AEGIS": {
+    "rarity": "Rare",
+    "type": "Power",
+    "pool": "Regent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "NIGHTMARE": {
+    "rarity": "Rare",
+    "type": "Skill",
+    "pool": "Silent",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "NO_ESCAPE": {
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "pool": "Necrobinder",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "NORMALITY": {
+    "rarity": "Curse",
+    "type": "Curse",
+    "pool": "Curse",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "NOSTALGIA": {
+    "rarity": "Rare",
+    "type": "Power",
+    "pool": "Colorless",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "NOXIOUS_FUMES": {
+    "rarity": "Uncommon",
+    "type": "Power",
+    "pool": "Silent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "NULL": {
+    "rarity": "Uncommon",
+    "type": "Attack",
+    "pool": "Defect",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "OBLIVION": {
+    "rarity": "Rare",
+    "type": "Skill",
+    "pool": "Necrobinder",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "OFFERING": {
+    "rarity": "Rare",
+    "type": "Skill",
+    "pool": "Ironclad",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "OMNISLICE": {
+    "rarity": "Uncommon",
+    "type": "Attack",
+    "pool": "Colorless",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "ONE_TWO_PUNCH": {
+    "rarity": "Rare",
+    "type": "Skill",
+    "pool": "Ironclad",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "ORBIT": {
+    "rarity": "Uncommon",
+    "type": "Power",
+    "pool": "Regent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "OUTBREAK": {
+    "rarity": "Uncommon",
+    "type": "Power",
+    "pool": "Silent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "OUTMANEUVER": {
+    "rarity": "Event",
+    "type": "Skill",
+    "pool": "Event",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "OVERCLOCK": {
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "pool": "Defect",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "PACTS_END": {
+    "rarity": "Rare",
+    "type": "Attack",
+    "pool": "Ironclad",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "PAGESTORM": {
+    "rarity": "Uncommon",
+    "type": "Power",
+    "pool": "Necrobinder",
+    "exhaust": false,
+    "ethereal": true
+  },
+  "PALE_BLUE_DOT": {
+    "rarity": "Uncommon",
+    "type": "Power",
+    "pool": "Regent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "PANACHE": {
+    "rarity": "Uncommon",
+    "type": "Power",
+    "pool": "Colorless",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "PANIC_BUTTON": {
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "pool": "Colorless",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "PARRY": {
+    "rarity": "Uncommon",
+    "type": "Power",
+    "pool": "Regent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "PARSE": {
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "pool": "Necrobinder",
+    "exhaust": false,
+    "ethereal": true
+  },
+  "PARTICLE_WALL": {
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "pool": "Regent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "PATTER": {
+    "rarity": "Common",
+    "type": "Skill",
+    "pool": "Regent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "PECK": {
+    "rarity": "Event",
+    "type": "Attack",
+    "pool": "Event",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "PERFECTED_STRIKE": {
+    "rarity": "Common",
+    "type": "Attack",
+    "pool": "Ironclad",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "PHANTOM_BLADES": {
+    "rarity": "Uncommon",
+    "type": "Power",
+    "pool": "Silent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "PHOTON_CUT": {
+    "rarity": "Common",
+    "type": "Attack",
+    "pool": "Regent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "PIERCING_WAIL": {
+    "rarity": "Common",
+    "type": "Skill",
+    "pool": "Silent",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "PILLAGE": {
+    "rarity": "Uncommon",
+    "type": "Attack",
+    "pool": "Ironclad",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "PILLAR_OF_CREATION": {
+    "rarity": "Uncommon",
+    "type": "Power",
+    "pool": "Regent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "PINPOINT": {
+    "rarity": "Uncommon",
+    "type": "Attack",
+    "pool": "Silent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "POISONED_STAB": {
+    "rarity": "Common",
+    "type": "Attack",
+    "pool": "Silent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "POKE": {
+    "rarity": "Common",
+    "type": "Attack",
+    "pool": "Necrobinder",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "POMMEL_STRIKE": {
+    "rarity": "Common",
+    "type": "Attack",
+    "pool": "Ironclad",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "POOR_SLEEP": {
+    "rarity": "Curse",
+    "type": "Curse",
+    "pool": "Curse",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "POUNCE": {
+    "rarity": "Uncommon",
+    "type": "Attack",
+    "pool": "Silent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "PRECISE_CUT": {
+    "rarity": "Uncommon",
+    "type": "Attack",
+    "pool": "Silent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "PREDATOR": {
+    "rarity": "Uncommon",
+    "type": "Attack",
+    "pool": "Silent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "PREPARED": {
+    "rarity": "Common",
+    "type": "Skill",
+    "pool": "Silent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "PREP_TIME": {
+    "rarity": "Uncommon",
+    "type": "Power",
+    "pool": "Colorless",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "PRIMAL_FORCE": {
+    "rarity": "Rare",
+    "type": "Skill",
+    "pool": "Ironclad",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "PRODUCTION": {
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "pool": "Colorless",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "PROLONG": {
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "pool": "Colorless",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "PROPHESIZE": {
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "pool": "Regent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "PROTECTOR": {
+    "rarity": "Ancient",
+    "type": "Attack",
+    "pool": "Necrobinder",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "PROWESS": {
+    "rarity": "Uncommon",
+    "type": "Power",
+    "pool": "Colorless",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "PULL_AGGRO": {
+    "rarity": "Common",
+    "type": "Skill",
+    "pool": "Necrobinder",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "PULL_FROM_BELOW": {
+    "rarity": "Uncommon",
+    "type": "Attack",
+    "pool": "Necrobinder",
+    "exhaust": false,
+    "ethereal": true
+  },
+  "PURITY": {
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "pool": "Colorless",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "PUTREFY": {
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "pool": "Necrobinder",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "PYRE": {
+    "rarity": "Rare",
+    "type": "Power",
+    "pool": "Ironclad",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "QUADCAST": {
+    "rarity": "Ancient",
+    "type": "Skill",
+    "pool": "Defect",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "QUASAR": {
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "pool": "Regent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "RADIATE": {
+    "rarity": "Uncommon",
+    "type": "Attack",
+    "pool": "Regent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "RAGE": {
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "pool": "Ironclad",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "RAINBOW": {
+    "rarity": "Rare",
+    "type": "Skill",
+    "pool": "Defect",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "RALLY": {
+    "rarity": "Rare",
+    "type": "Skill",
+    "pool": "Colorless",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "RAMPAGE": {
+    "rarity": "Uncommon",
+    "type": "Attack",
+    "pool": "Ironclad",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "RATTLE": {
+    "rarity": "Uncommon",
+    "type": "Attack",
+    "pool": "Necrobinder",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "REANIMATE": {
+    "rarity": "Rare",
+    "type": "Skill",
+    "pool": "Necrobinder",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "REAP": {
+    "rarity": "Common",
+    "type": "Attack",
+    "pool": "Necrobinder",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "REAPER_FORM": {
+    "rarity": "Rare",
+    "type": "Power",
+    "pool": "Necrobinder",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "REAVE": {
+    "rarity": "Common",
+    "type": "Attack",
+    "pool": "Necrobinder",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "REBOOT": {
+    "rarity": "Rare",
+    "type": "Skill",
+    "pool": "Defect",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "REBOUND": {
+    "rarity": "Event",
+    "type": "Attack",
+    "pool": "Event",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "REFINE_BLADE": {
+    "rarity": "Common",
+    "type": "Skill",
+    "pool": "Regent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "REFLECT": {
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "pool": "Regent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "REFLEX": {
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "pool": "Silent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "REFRACT": {
+    "rarity": "Uncommon",
+    "type": "Attack",
+    "pool": "Defect",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "REGRET": {
+    "rarity": "Curse",
+    "type": "Curse",
+    "pool": "Curse",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "RELAX": {
+    "rarity": "Ancient",
+    "type": "Skill",
+    "pool": "Event",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "REND": {
+    "rarity": "Rare",
+    "type": "Attack",
+    "pool": "Colorless",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "RESONANCE": {
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "pool": "Regent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "RESTLESSNESS": {
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "pool": "Colorless",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "RICOCHET": {
+    "rarity": "Common",
+    "type": "Attack",
+    "pool": "Silent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "RIGHT_HAND_HAND": {
+    "rarity": "Uncommon",
+    "type": "Attack",
+    "pool": "Necrobinder",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "RIP_AND_TEAR": {
+    "rarity": "Uncommon",
+    "type": "Attack",
+    "pool": "Event",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "ROCKET_PUNCH": {
+    "rarity": "Uncommon",
+    "type": "Attack",
+    "pool": "Defect",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "ROLLING_BOULDER": {
+    "rarity": "Rare",
+    "type": "Power",
+    "pool": "Colorless",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "ROYAL_GAMBLE": {
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "pool": "Regent",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "ROYALTIES": {
+    "rarity": "Rare",
+    "type": "Power",
+    "pool": "Regent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "RUPTURE": {
+    "rarity": "Uncommon",
+    "type": "Power",
+    "pool": "Ironclad",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "SACRIFICE": {
+    "rarity": "Rare",
+    "type": "Skill",
+    "pool": "Necrobinder",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "SALVO": {
+    "rarity": "Rare",
+    "type": "Attack",
+    "pool": "Colorless",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "SCAVENGE": {
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "pool": "Defect",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "SCOURGE": {
+    "rarity": "Common",
+    "type": "Skill",
+    "pool": "Necrobinder",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "SCRAPE": {
+    "rarity": "Uncommon",
+    "type": "Attack",
+    "pool": "Defect",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "SCRAWL": {
+    "rarity": "Rare",
+    "type": "Skill",
+    "pool": "Colorless",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "SCULPTING_STRIKE": {
+    "rarity": "Common",
+    "type": "Attack",
+    "pool": "Necrobinder",
+    "exhaust": false,
+    "ethereal": true
+  },
+  "SEANCE": {
+    "rarity": "Rare",
+    "type": "Skill",
+    "pool": "Necrobinder",
+    "exhaust": false,
+    "ethereal": true
+  },
+  "SECOND_WIND": {
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "pool": "Ironclad",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "SECRET_TECHNIQUE": {
+    "rarity": "Rare",
+    "type": "Skill",
+    "pool": "Colorless",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "SECRET_WEAPON": {
+    "rarity": "Rare",
+    "type": "Skill",
+    "pool": "Colorless",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "SEEKER_STRIKE": {
+    "rarity": "Uncommon",
+    "type": "Attack",
+    "pool": "Colorless",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "SEEKING_EDGE": {
+    "rarity": "Rare",
+    "type": "Power",
+    "pool": "Regent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "SENTRY_MODE": {
+    "rarity": "Rare",
+    "type": "Power",
+    "pool": "Necrobinder",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "SERPENT_FORM": {
+    "rarity": "Rare",
+    "type": "Power",
+    "pool": "Silent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "SETUP_STRIKE": {
+    "rarity": "Common",
+    "type": "Attack",
+    "pool": "Ironclad",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "SEVEN_STARS": {
+    "rarity": "Rare",
+    "type": "Attack",
+    "pool": "Regent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "SEVERANCE": {
+    "rarity": "Uncommon",
+    "type": "Attack",
+    "pool": "Necrobinder",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "SHADOWMELD": {
+    "rarity": "Rare",
+    "type": "Skill",
+    "pool": "Silent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "SHADOW_SHIELD": {
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "pool": "Defect",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "SHADOW_STEP": {
+    "rarity": "Rare",
+    "type": "Skill",
+    "pool": "Silent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "SHAME": {
+    "rarity": "Curse",
+    "type": "Curse",
+    "pool": "Curse",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "SHARED_FATE": {
+    "rarity": "Rare",
+    "type": "Skill",
+    "pool": "Necrobinder",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "SHATTER": {
+    "rarity": "Rare",
+    "type": "Attack",
+    "pool": "Defect",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "SHINING_STRIKE": {
+    "rarity": "Uncommon",
+    "type": "Attack",
+    "pool": "Regent",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "SHIV": {
+    "rarity": "Token",
+    "type": "Attack",
+    "pool": "Token",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "SHOCKWAVE": {
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "pool": "Colorless",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "SHROUD": {
+    "rarity": "Uncommon",
+    "type": "Power",
+    "pool": "Necrobinder",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "SHRUG_IT_OFF": {
+    "rarity": "Common",
+    "type": "Skill",
+    "pool": "Ironclad",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "SIC_EM": {
+    "rarity": "Uncommon",
+    "type": "Attack",
+    "pool": "Necrobinder",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "SIGNAL_BOOST": {
+    "rarity": "Rare",
+    "type": "Skill",
+    "pool": "Defect",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "SKEWER": {
+    "rarity": "Uncommon",
+    "type": "Attack",
+    "pool": "Silent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "SKIM": {
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "pool": "Defect",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "SLEIGHT_OF_FLESH": {
+    "rarity": "Uncommon",
+    "type": "Power",
+    "pool": "Necrobinder",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "SLICE": {
+    "rarity": "Common",
+    "type": "Attack",
+    "pool": "Silent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "SLIMED": {
+    "rarity": "Status",
+    "type": "Status",
+    "pool": "Status",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "SLOTH": {
+    "rarity": "Status",
+    "type": "Status",
+    "pool": "Token",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "SMOKESTACK": {
+    "rarity": "Uncommon",
+    "type": "Power",
+    "pool": "Defect",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "SNAKEBITE": {
+    "rarity": "Common",
+    "type": "Skill",
+    "pool": "Silent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "SNAP": {
+    "rarity": "Common",
+    "type": "Attack",
+    "pool": "Necrobinder",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "SNEAKY": {
+    "rarity": "Rare",
+    "type": "Power",
+    "pool": "Silent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "SOLAR_STRIKE": {
+    "rarity": "Common",
+    "type": "Attack",
+    "pool": "Regent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "SOOT": {
+    "rarity": "Status",
+    "type": "Status",
+    "pool": "Status",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "SOUL": {
+    "rarity": "Token",
+    "type": "Skill",
+    "pool": "Token",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "SOUL_STORM": {
+    "rarity": "Rare",
+    "type": "Attack",
+    "pool": "Necrobinder",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "SOVEREIGN_BLADE": {
+    "rarity": "Token",
+    "type": "Attack",
+    "pool": "Token",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "SOW": {
+    "rarity": "Common",
+    "type": "Attack",
+    "pool": "Necrobinder",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "SPECTRUM_SHIFT": {
+    "rarity": "Uncommon",
+    "type": "Power",
+    "pool": "Regent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "SPEEDSTER": {
+    "rarity": "Uncommon",
+    "type": "Power",
+    "pool": "Silent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "SPINNER": {
+    "rarity": "Rare",
+    "type": "Power",
+    "pool": "Defect",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "SPIRIT_OF_ASH": {
+    "rarity": "Rare",
+    "type": "Power",
+    "pool": "Necrobinder",
+    "exhaust": false,
+    "ethereal": true
+  },
+  "SPITE": {
+    "rarity": "Uncommon",
+    "type": "Attack",
+    "pool": "Ironclad",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "SPLASH": {
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "pool": "Colorless",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "SPOILS_MAP": {
+    "rarity": "Quest",
+    "type": "Quest",
+    "pool": "Quest",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "SPOILS_OF_BATTLE": {
+    "rarity": "Common",
+    "type": "Skill",
+    "pool": "Regent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "SPORE_MIND": {
+    "rarity": "Curse",
+    "type": "Curse",
+    "pool": "Curse",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "SPUR": {
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "pool": "Necrobinder",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "SQUASH": {
+    "rarity": "Event",
+    "type": "Attack",
+    "pool": "Event",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "SQUEEZE": {
+    "rarity": "Rare",
+    "type": "Attack",
+    "pool": "Necrobinder",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "STACK": {
+    "rarity": "Event",
+    "type": "Skill",
+    "pool": "Event",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "STAMPEDE": {
+    "rarity": "Uncommon",
+    "type": "Power",
+    "pool": "Ironclad",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "STARDUST": {
+    "rarity": "Uncommon",
+    "type": "Attack",
+    "pool": "Regent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "STOKE": {
+    "rarity": "Rare",
+    "type": "Skill",
+    "pool": "Ironclad",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "STOMP": {
+    "rarity": "Uncommon",
+    "type": "Attack",
+    "pool": "Ironclad",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "STONE_ARMOR": {
+    "rarity": "Uncommon",
+    "type": "Power",
+    "pool": "Ironclad",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "STORM": {
+    "rarity": "Uncommon",
+    "type": "Power",
+    "pool": "Defect",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "STORM_OF_STEEL": {
+    "rarity": "Rare",
+    "type": "Skill",
+    "pool": "Silent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "STRANGLE": {
+    "rarity": "Uncommon",
+    "type": "Attack",
+    "pool": "Silent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "STRATAGEM": {
+    "rarity": "Uncommon",
+    "type": "Power",
+    "pool": "Colorless",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "STRIKE_DEFECT": {
+    "rarity": "Basic",
+    "type": "Attack",
+    "pool": "Defect",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "STRIKE_IRONCLAD": {
+    "rarity": "Basic",
+    "type": "Attack",
+    "pool": "Ironclad",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "STRIKE_NECROBINDER": {
+    "rarity": "Basic",
+    "type": "Attack",
+    "pool": "Necrobinder",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "STRIKE_REGENT": {
+    "rarity": "Basic",
+    "type": "Attack",
+    "pool": "Regent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "STRIKE_SILENT": {
+    "rarity": "Basic",
+    "type": "Attack",
+    "pool": "Silent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "SUBROUTINE": {
+    "rarity": "Uncommon",
+    "type": "Power",
+    "pool": "Defect",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "SUCKER_PUNCH": {
+    "rarity": "Common",
+    "type": "Attack",
+    "pool": "Silent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "SUMMON_FORTH": {
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "pool": "Regent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "SUNDER": {
+    "rarity": "Uncommon",
+    "type": "Attack",
+    "pool": "Defect",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "SUPERCRITICAL": {
+    "rarity": "Rare",
+    "type": "Skill",
+    "pool": "Defect",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "SUPERMASSIVE": {
+    "rarity": "Uncommon",
+    "type": "Attack",
+    "pool": "Regent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "SUPPRESS": {
+    "rarity": "Ancient",
+    "type": "Attack",
+    "pool": "Silent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "SURVIVOR": {
+    "rarity": "Basic",
+    "type": "Skill",
+    "pool": "Silent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "SWEEPING_BEAM": {
+    "rarity": "Common",
+    "type": "Attack",
+    "pool": "Defect",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "SWEEPING_GAZE": {
+    "rarity": "Token",
+    "type": "Attack",
+    "pool": "Token",
+    "exhaust": true,
+    "ethereal": true
+  },
+  "SWORD_BOOMERANG": {
+    "rarity": "Common",
+    "type": "Attack",
+    "pool": "Ironclad",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "SWORD_SAGE": {
+    "rarity": "Rare",
+    "type": "Power",
+    "pool": "Regent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "SYNCHRONIZE": {
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "pool": "Defect",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "SYNTHESIS": {
+    "rarity": "Uncommon",
+    "type": "Attack",
+    "pool": "Defect",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "TACTICIAN": {
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "pool": "Silent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "TAG_TEAM": {
+    "rarity": "Uncommon",
+    "type": "Attack",
+    "pool": "Colorless",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "TANK": {
+    "rarity": "Rare",
+    "type": "Power",
+    "pool": "Ironclad",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "TAUNT": {
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "pool": "Ironclad",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "TEAR_ASUNDER": {
+    "rarity": "Rare",
+    "type": "Attack",
+    "pool": "Ironclad",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "TEMPEST": {
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "pool": "Defect",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "TERRAFORMING": {
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "pool": "Regent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "TESLA_COIL": {
+    "rarity": "Uncommon",
+    "type": "Attack",
+    "pool": "Defect",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "THE_BOMB": {
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "pool": "Colorless",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "THE_GAMBIT": {
+    "rarity": "Rare",
+    "type": "Skill",
+    "pool": "Colorless",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "THE_HUNT": {
+    "rarity": "Rare",
+    "type": "Attack",
+    "pool": "Silent",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "THE_SCYTHE": {
+    "rarity": "Rare",
+    "type": "Attack",
+    "pool": "Necrobinder",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "THE_SEALED_THRONE": {
+    "rarity": "Ancient",
+    "type": "Power",
+    "pool": "Regent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "THE_SMITH": {
+    "rarity": "Rare",
+    "type": "Skill",
+    "pool": "Regent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "THINKING_AHEAD": {
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "pool": "Colorless",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "THRASH": {
+    "rarity": "Rare",
+    "type": "Attack",
+    "pool": "Ironclad",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "THRUMMING_HATCHET": {
+    "rarity": "Uncommon",
+    "type": "Attack",
+    "pool": "Colorless",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "THUNDER": {
+    "rarity": "Uncommon",
+    "type": "Power",
+    "pool": "Defect",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "THUNDERCLAP": {
+    "rarity": "Common",
+    "type": "Attack",
+    "pool": "Ironclad",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "TIMES_UP": {
+    "rarity": "Rare",
+    "type": "Attack",
+    "pool": "Necrobinder",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "TOOLS_OF_THE_TRADE": {
+    "rarity": "Rare",
+    "type": "Power",
+    "pool": "Silent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "TORIC_TOUGHNESS": {
+    "rarity": "Event",
+    "type": "Skill",
+    "pool": "Event",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "TOXIC": {
+    "rarity": "Status",
+    "type": "Status",
+    "pool": "Status",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "TRACKING": {
+    "rarity": "Rare",
+    "type": "Power",
+    "pool": "Silent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "TRANSFIGURE": {
+    "rarity": "Rare",
+    "type": "Skill",
+    "pool": "Necrobinder",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "TRASH_TO_TREASURE": {
+    "rarity": "Rare",
+    "type": "Power",
+    "pool": "Defect",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "TREMBLE": {
+    "rarity": "Common",
+    "type": "Skill",
+    "pool": "Ironclad",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "TRUE_GRIT": {
+    "rarity": "Common",
+    "type": "Skill",
+    "pool": "Ironclad",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "TURBO": {
+    "rarity": "Common",
+    "type": "Skill",
+    "pool": "Defect",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "TWIN_STRIKE": {
+    "rarity": "Common",
+    "type": "Attack",
+    "pool": "Ironclad",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "TYRANNY": {
+    "rarity": "Rare",
+    "type": "Power",
+    "pool": "Regent",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "ULTIMATE_DEFEND": {
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "pool": "Colorless",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "ULTIMATE_STRIKE": {
+    "rarity": "Uncommon",
+    "type": "Attack",
+    "pool": "Colorless",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "UNDEATH": {
+    "rarity": "Rare",
+    "type": "Skill",
+    "pool": "Necrobinder",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "UNLEASH": {
+    "rarity": "Basic",
+    "type": "Attack",
+    "pool": "Necrobinder",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "UNMOVABLE": {
+    "rarity": "Rare",
+    "type": "Power",
+    "pool": "Ironclad",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "UNRELENTING": {
+    "rarity": "Uncommon",
+    "type": "Attack",
+    "pool": "Ironclad",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "UNTOUCHABLE": {
+    "rarity": "Common",
+    "type": "Skill",
+    "pool": "Silent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "UP_MY_SLEEVE": {
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "pool": "Silent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "UPPERCUT": {
+    "rarity": "Uncommon",
+    "type": "Attack",
+    "pool": "Ironclad",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "UPROAR": {
+    "rarity": "Common",
+    "type": "Attack",
+    "pool": "Defect",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "VEILPIERCER": {
+    "rarity": "Uncommon",
+    "type": "Attack",
+    "pool": "Necrobinder",
+    "exhaust": false,
+    "ethereal": true
+  },
+  "VENERATE": {
+    "rarity": "Basic",
+    "type": "Skill",
+    "pool": "Regent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "VICIOUS": {
+    "rarity": "Uncommon",
+    "type": "Power",
+    "pool": "Ironclad",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "VOID": {
+    "rarity": "Status",
+    "type": "Status",
+    "pool": "Status",
+    "exhaust": false,
+    "ethereal": true
+  },
+  "VOID_FORM": {
+    "rarity": "Rare",
+    "type": "Power",
+    "pool": "Regent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "VOLLEY": {
+    "rarity": "Uncommon",
+    "type": "Attack",
+    "pool": "Colorless",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "VOLTAIC": {
+    "rarity": "Rare",
+    "type": "Skill",
+    "pool": "Defect",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "WASTE_AWAY": {
+    "rarity": "Status",
+    "type": "Status",
+    "pool": "Token",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "WELL_LAID_PLANS": {
+    "rarity": "Uncommon",
+    "type": "Power",
+    "pool": "Silent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "WHIRLWIND": {
+    "rarity": "Uncommon",
+    "type": "Attack",
+    "pool": "Ironclad",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "WHISTLE": {
+    "rarity": "Ancient",
+    "type": "Attack",
+    "pool": "Event",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "WHITE_NOISE": {
+    "rarity": "Uncommon",
+    "type": "Skill",
+    "pool": "Defect",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "WISH": {
+    "rarity": "Ancient",
+    "type": "Skill",
+    "pool": "Event",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "WISP": {
+    "rarity": "Common",
+    "type": "Skill",
+    "pool": "Necrobinder",
+    "exhaust": true,
+    "ethereal": false
+  },
+  "WOUND": {
+    "rarity": "Status",
+    "type": "Status",
+    "pool": "Status",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "WRAITH_FORM": {
+    "rarity": "Ancient",
+    "type": "Power",
+    "pool": "Silent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "WRITHE": {
+    "rarity": "Curse",
+    "type": "Curse",
+    "pool": "Curse",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "WROUGHT_IN_WAR": {
+    "rarity": "Common",
+    "type": "Attack",
+    "pool": "Regent",
+    "exhaust": false,
+    "ethereal": false
+  },
+  "ZAP": {
+    "rarity": "Basic",
+    "type": "Skill",
+    "pool": "Defect",
+    "exhaust": false,
+    "ethereal": false
+  }
+}
