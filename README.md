@@ -23,17 +23,7 @@ pip install openpyxl
 
 ## 使用方法
 
-### 1. 提取卡牌信息（可选）
-
-如果你有游戏源代码的访问权限，可以提取卡牌信息：
-
-```bash
-python extract_rarity.py --cards-dir "游戏源码路径/src/Core/Models/Cards" --cardpools-dir "游戏源码路径/src/Core/Models/CardPools" --output card_rarity.json
-```
-
-本仓库已包含预生成的 `card_rarity.json` 文件。
-
-### 2. 生成卡牌抓取统计
+### 生成卡牌抓取统计
 
 ```bash
 python card_pick_stats.py 1 50 --history "存档历史记录路径" --card-info card_rarity.json --output card_stats_output
@@ -54,7 +44,7 @@ python card_pick_stats.py 1 50 --history "存档历史记录路径" --card-info 
 python card_pick_stats.py 1 27 --history "C:\Users\用户名\AppData\Roaming\SlayTheSpire2\steam\123456789\saves\history" --card-info card_rarity.json --style green
 ```
 
-### 3. 对比不同版本的统计数据
+### 对比不同版本的统计数据
 
 ```bash
 python compare_stats.py 文件1.xlsx 文件2.xlsx --output 对比结果.xlsx
